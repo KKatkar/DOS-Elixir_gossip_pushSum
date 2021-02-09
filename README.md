@@ -1,5 +1,5 @@
 
-###Project Specifications:  
+<h2>Project Specifications:</h2>  
 Implemented Gossip and Pushsum algorithms on the following topologies: 
 <ul> 
  <li>Full 
@@ -11,7 +11,7 @@ Implemented Gossip and Pushsum algorithms on the following topologies:
 </ul>
 Their graphs and respective analysis are included with the project in Report.pdf 
 
-####Largest Network Managed: GOSSIP: (convergence time is in milliseconds) 
+<h4>Largest Network Managed: GOSSIP: (convergence time is in milliseconds) </h4>
 <ul>
 <li> Full – 5000 nodes ; 35,390 ms 
 <li>Line – 2500 nodes; 161,094 ms 
@@ -21,7 +21,7 @@ Their graphs and respective analysis are included with the project in Report.pdf
  <li>Honeycomb with random neighbours – 5000 nodes; 86,219 ms 
  </ul>
  
-####PUSHSUM: (convergence time is in milliseconds) 
+#### PUSHSUM: (convergence time is in milliseconds) 
 <ul>
 <li> Full – 2500 nodes ; 206,313 ms 
 <li>Line – 500 nodes; 482,782 ms 
